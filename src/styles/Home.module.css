@@ -1,0 +1,7 @@
+.component {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.formGroup {
+  margin-bottom: 10px;
+}

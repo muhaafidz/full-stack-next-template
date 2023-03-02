@@ -18,7 +18,7 @@ const get = (req, res) => {
 }
 const create = (req, res) => {
   try {
-    /* ... Read Data and DB Query Logic ... */
+    /* ... Create Data and DB Query Logic ... */
     console.log('dataaaaaa', req)
     const data = {
       message: 'Successfully Created',
@@ -32,7 +32,7 @@ const create = (req, res) => {
 }
 const update = (req, res) => {
   try {
-    /* ... Read Data and DB Query Logic ... */
+    /* ... Update Data and DB Query Logic ... */
 
     const data = {
       message: 'Successfully Updated',
@@ -46,7 +46,7 @@ const update = (req, res) => {
 }
 const remove = (req, res) => {
   try {
-    /* ... Read Data and DB Query Logic ... */
+    /* ... Delete Data and DB Query Logic ... */
 
     const data = {
       message: 'Successfully Deleted',

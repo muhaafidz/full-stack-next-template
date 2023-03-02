@@ -105,3 +105,10 @@ a {
     color-scheme: dark;
   }
 }
+
+.main-header {
+  padding: 20px 0;
+}
+.main-footer {
+  padding: 20px 0;
+}

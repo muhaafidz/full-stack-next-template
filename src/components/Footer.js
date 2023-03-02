@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <div>Footer</div>
+        <div className="main-footer">Footer</div>
     )
 }
 export default Footer
